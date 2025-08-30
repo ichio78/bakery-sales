@@ -28,10 +28,10 @@ By combining climate factors (temperature, wind speed, cloudiness, weather code)
 　- Treated outliers (removed unrealistic sales > 1000)
 
 　- Handled missing values:
-
-   　- Predicted `Bewoelkung` and `Wettercode` using DecisionTreeClassifier
-    
-  　 - Completed imputation for `Temperatur` and `Windgeschwindigkeit`
+   
+　   --- Predicted `Bewoelkung` and `Wettercode` using DecisionTreeClassifier
+ 
+　   --- Completed imputation for `Temperatur` and `Windgeschwindigkeit`
 
 　- Converted categorical variables (Warengruppe, Wettercode) via one-hot encoding
 
