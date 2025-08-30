@@ -13,7 +13,7 @@ By combining climate factors (temperature, wind speed, cloudiness, weather code)
 
 **## Dataset**
 
-　- Source: Provided training dataset (not included here due to license restrictions)
+　- Source: Provided training dataset (not included here)
 
 　- Size: ~9,300 records
 
