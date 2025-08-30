@@ -29,8 +29,9 @@ By combining climate factors (temperature, wind speed, cloudiness, weather code)
 
 　- Handled missing values:
 
-   - Predicted `Bewoelkung` and `Wettercode` using DecisionTreeClassifier
-   - Completed imputation for `Temperatur` and `Windgeschwindigkeit`
+   　- Predicted `Bewoelkung` and `Wettercode` using DecisionTreeClassifier
+    
+  　 - Completed imputation for `Temperatur` and `Windgeschwindigkeit`
 
 　- Converted categorical variables (Warengruppe, Wettercode) via one-hot encoding
 
@@ -40,15 +41,15 @@ By combining climate factors (temperature, wind speed, cloudiness, weather code)
 
 **## Models & Methods**
 
-- Linear Regression (baseline)
+　- Linear Regression (baseline)
 
-- XGBoost Regressor
+　- XGBoost Regressor
 
-- LightGBM Regressor
+　- LightGBM Regressor
 
-- CatBoost Regressor
+　- CatBoost Regressor
 
-- GridSearchCV for hyperparameter tuning
+　- GridSearchCV for hyperparameter tuning
 
  <p>&nbsp;</p>
 
