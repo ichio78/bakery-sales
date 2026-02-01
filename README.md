@@ -35,8 +35,6 @@ bakery-sales/
 └── requirements.txt
 
 
-<p>&nbsp;</p>
-
 ## Daily Batch Execution
 
 The inference script is designed to be executed once per day.
@@ -57,8 +55,6 @@ An example cron configuration (not enabled by default) is shown below:
 The dataset is not included in this repository due to license restrictions. Please download it directly from Kaggle.
 
 https://www.kaggle.com/competitions/bakery-sales-prediction-summer-2025/data
-
-<p>&nbsp;</p>
 
 ## Notes
 
