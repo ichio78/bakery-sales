@@ -48,7 +48,7 @@ An example cron configuration (not enabled by default) is shown below:
 #   --model_s3  s3://<bucket>/artifacts/BakarySales.pkl \
 #   --id_cols "" \
 #   --feature_cols <comma-separated feature columns>
-```cron
+```
 
 ## About Dataset
 
