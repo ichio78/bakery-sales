@@ -22,7 +22,7 @@ Details on preprocessing, feature engineering, and model comparison
 are documented in `bakery_sales.ipynb`.
 
 ## Repository Structure
-
+```
 bakery-sales/
 ├── data_sample/            # Sample input data (for reference)
 ├── notebooks/
@@ -33,7 +33,7 @@ bakery-sales/
 │   └── predict.py          # Batch inference entry point
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Daily Batch Execution
 
